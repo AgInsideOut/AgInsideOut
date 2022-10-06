@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ag.thiel.arc@gmail.com**
 
-- ⚡ Fun fact [Gummy bears were originally called "dancing bears."](Gummy bears were originally called "dancing bears.")
+- ⚡ Fun fact [Gummy bears were originally called "dancing bears."]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
