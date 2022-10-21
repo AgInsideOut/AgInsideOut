@@ -5,19 +5,13 @@
 
 - 🌱 I’m currently learning **Python and C#**
 
-- 👯 I’m looking to collaborate on **any project that I can put my skills into practice**
-
-- 🤝 I’m looking for help with **Coming soon...**
-
-- 👨‍💻 All of my (architectural) projects are available at [https://agthiel.myportfolio.com](https://agthiel.myportfolio.com)
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HaMegevyIWWIuWTQ-adgX8SkDgPC6jcs/view?usp=sharing](https://drive.google.com/file/d/1HaMegevyIWWIuWTQ-adgX8SkDgPC6jcs/view?usp=sharing)
 
 - 💬 Ask me **for colabboration if interested**
 
 - 📫 How to reach me **ag.thiel.arc@gmail.com**
 
-- ⚡ Fun fact [Gummy bears were originally called "dancing bears."]
+- ⚡ Fun fact ["Rabbits can see behind them without moving their heads."]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
