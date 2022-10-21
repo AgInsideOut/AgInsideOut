@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project that I can put my skills into practice**
 
-- 🤝 I’m looking for help with **Recipe search project**
+- 🤝 I’m looking for help with **Coming soon...**
 
 - 👨‍💻 All of my (architectural) projects are available at [https://agthiel.myportfolio.com](https://agthiel.myportfolio.com)
 
