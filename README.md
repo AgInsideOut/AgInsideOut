@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aga</h1>
-<h3 align="center">A graduate architect and aspiring software engineer from Poland</h3>
+<h3 align="center">A graduate architect and IT passionate</h3>
 
 - 🔭 I’m currently working on **boosting knowledge and skills**
 
