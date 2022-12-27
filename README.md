@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aga</h1>
-<h3 align="center">A graduate architect and IT passionate</h3>
+<h3 align="center">Architect, graphic designer strongly interested in and Computer Science</h3>
 
 - 🔭 I’m currently working on **boosting knowledge and skills**
 
 - 🌱 I’m currently learning **Python and C#**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HaMegevyIWWIuWTQ-adgX8SkDgPC6jcs/view?usp=sharing](https://drive.google.com/file/d/1HaMegevyIWWIuWTQ-adgX8SkDgPC6jcs/view?usp=sharing)
+- 📄 Check out my experiences [https://drive.google.com/file/d/1HaMegevyIWWIuWTQ-adgX8SkDgPC6jcs/view?usp=sharing](https://drive.google.com/file/d/1HaMegevyIWWIuWTQ-adgX8SkDgPC6jcs/view?usp=sharing)
 
 - 💬 Ask me **for colabboration if interested**
 
