@@ -1,9 +1,9 @@
 <h1 align="center">👋🏻 Hi, I'm Aga!  </h1>
-<h3 align="center">#architect #graphic_designer</h3>
+<h3 align="center">architect, graphic_designer</h3>
 
 - 🔭 I’m into boosting knowledge and skills.
 
-- 🌱 I’m currently learning **Python and C#**.
+- 🌱 I’m currently learning **JavaScript**.
 
 - 📄 Check out my [experiences](https://www.linkedin.com/in/agnieszka-thiel/).
 
