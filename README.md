@@ -7,11 +7,9 @@
 
 - 📄 Check out my [experiences](https://www.linkedin.com/in/agnieszka-thiel/).
 
-- 💬 Ask me **for colabboration if interested**
+- 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
 
-- 📫 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
-
-- ⚡ Fun fact ["Rabbits can see behind them without moving their heads."]
+- ⚡ Fun fact ["People are more creative in the shower."]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
