@@ -9,7 +9,7 @@
 
 - 💬 Ask me **for colabboration if interested**
 
-- 📫 Reach me via email – **ag.thiel.arc@gmail.com**
+- 📫 Reach me via [email](ag.thiel.arc@gmail.com)
 
 - ⚡ Fun fact ["Rabbits can see behind them without moving their heads."]
 
