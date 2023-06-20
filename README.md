@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Aga!</h1>
-<h3 align="center">Architect | Graphic designer </h3>
+<h1 align="center">👋🏻 Hi, I'm Aga!  </h1>
+<!-- <h3 align="center">Architect & graphic designer </h3> -->
 
-- 🔭 I’m currently working on **boosting knowledge and skills**.
+- 🔭 I’m into boosting knowledge and skills.
 
 - 🌱 I’m currently learning **Python and C#**.
 
