@@ -1,5 +1,5 @@
 <h1 align="center">👋🏻 Hi, I'm Aga!  </h1>
-<h3 align="center">architect, graphic_designer</h3>
+<sub align="center">Architect / Graphic designer / CFGdegree Full-Stack Student</sub>
 
 - 🔭 I’m into boosting knowledge and skills.
 
