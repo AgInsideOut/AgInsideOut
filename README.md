@@ -9,7 +9,7 @@
 
 - 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
 
-- ⚡ Fun fact – *people are more creative in the shower*.
+- ⚡ Fun fact – <ins>*people are more creative in the shower*</ins>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
