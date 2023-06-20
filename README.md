@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Aga!</h1>
 <h3 align="center">Architect | Graphic designer </h3>
 
-- 🔭 I’m currently working on **boosting knowledge and skills**
+- 🔭 I’m currently working on **boosting knowledge and skills**.
 
-- 🌱 I’m currently learning **Python and C#**
+- 🌱 I’m currently learning **Python and C#**.
 
 - 📄 Check out my [experiences](https://www.linkedin.com/in/agnieszka-thiel/).
 
 - 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
 
-- ⚡ Fun fact : **People are more creative in the shower**
+- ⚡ Fun fact – people are more creative in the shower.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
