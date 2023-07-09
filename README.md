@@ -19,9 +19,8 @@
 </p> -->
 <br><br>
 
----
+<hr style="border:2px solid gray">
 
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/305920/csharp.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="python" width="40" height="40"/> </a><a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/384697/database-data-base.svg" alt="sql" width="40" height="40"/></a><a href="www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/503148/adobe-ai.svg" alt="illustrator" width="40" height="40"/></a><a href="www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/503155/adobe-ps.svg" alt="photoshop" width="40" height="40"/> </a><a href="www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/503146/adobe-id.svg" alt="indesign" width="40" height="40"/></a></p>
 
