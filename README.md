@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**.
 
-- 📄 Check out my [experience](https://www.linkedin.com/in/agnieszka-thiel/).
+- 📄 Check out my [experience](https://www.agthiel.de).
 
 - 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
 
