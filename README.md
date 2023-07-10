@@ -1,23 +1,14 @@
-<h1 align="center">👋🏻 Hi, I'm Aga!  </h1>
-<p align="center">Architect / Graphic designer / <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Student</p><br>
+<h1 align="center">👋🏻 Hi, I'm Aga!</h1>
+<p align="center">Architect / Graphic designer / <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Student</p>
+<br>
 
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m into boosting knowledge and skills.
-
 - 🌱 I’m currently learning **JavaScript**.
-
 - 📄 Check out my [experience](https://www.agthiel.de).
-
 - 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
-
 - ⚡ Fun fact – <ins>*people are more creative in the shower*</ins>.
-
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Aga#4386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aga#4386" height="30" width="40" /></a>
-</p> -->
-<br><br>
 
 <hr style="border:2px solid gray">
 
@@ -39,10 +30,3 @@
     }
   }
 </style>
-
-
-<!--<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/aginsideout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aginsideout" /></a></p> -->
-
-<br><br>
-
