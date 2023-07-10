@@ -24,13 +24,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/305920/csharp.svg" alt="csharp" width="40" height="40" style="filter: invert(1);" />
+    <img src="https://www.svgrepo.com/show/305920/csharp.svg" alt="csharp" width="40" height="40" class="icon" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="python" width="40" height="40" style="filter: invert(1);" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="python" width="40" height="40" class="icon" />
   </a>
   <!-- Add more SVG icons here -->
 </p>
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    .icon {
+      filter: invert(1);
+    }
+  }
+</style>
 
 
 <!--<h3 align="left">Support:</h3>
