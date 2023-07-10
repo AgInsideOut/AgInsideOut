@@ -23,10 +23,10 @@
   <!-- Add more SVG icons here -->
 </p>
 
-<style>
+<!--<style>
   @media (prefers-color-scheme: dark) {
     .icon {
       filter: invert(1);
     }
   }
-</style>
+</style>-->
