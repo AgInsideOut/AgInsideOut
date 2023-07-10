@@ -24,21 +24,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/305920/csharp.svg" alt="csharp" width="40" height="40" class="icon" />
+    <img src="https://www.svgrepo.com/show/305920/csharp.svg" alt="csharp" width="40" height="40" style="filter: invert(1);" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="python" width="40" height="40" class="icon" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="python" width="40" height="40" style="filter: invert(1);" />
   </a>
   <!-- Add more SVG icons here -->
 </p>
 
-<style>
-  @media (prefers-color-scheme: dark) {
-    .icon {
-      filter: invert(1);
-    }
-  }
-</style>
 
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/aginsideout"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aginsideout" /></a></p> -->
