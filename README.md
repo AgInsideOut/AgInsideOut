@@ -14,12 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUserName/YourRepoName/main/csharp.svg" alt="csharp" width="40" height="40" class="icon" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/YourUserName/YourRepoName/main/python.svg" alt="python" width="40" height="40" class="icon" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/csharp.svg" alt="csharp" width="40" height="40" class="icon" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/python.svg" alt="python" width="40" height="40" class="icon" />
   <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/grasshopper.svg" alt="grasshopper" width="40" height="40" class="icon" />
   <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ai.svg" alt="adobe-ai" width="40" height="40" class="icon" />
   <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ps.svg" alt="adobe-ps" width="40" height="40" class="icon" />
