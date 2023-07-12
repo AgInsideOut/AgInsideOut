@@ -15,18 +15,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/305920/csharp.svg" alt="csharp" width="40" height="40" class="icon" />
+    <img src="https://raw.githubusercontent.com/YourUserName/YourRepoName/main/csharp.svg" alt="csharp" width="40" height="40" class="icon" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" alt="python" width="40" height="40" class="icon" />
+    <img src="https://raw.githubusercontent.com/YourUserName/YourRepoName/main/python.svg" alt="python" width="40" height="40" class="icon" />
   </a>
-  <!-- Add more SVG icons here -->
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/grasshopper.svg" alt="grasshopper" width="40" height="40" class="icon" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ai.svg" alt="adobe-ai" width="40" height="40" class="icon" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ps.svg" alt="adobe-ps" width="40" height="40" class="icon" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-id.svg" alt="adobe-id" width="40" height="40" class="icon" />
 </p>
 
-<!--<style>
+<style>
   @media (prefers-color-scheme: dark) {
     .icon {
       filter: invert(1);
     }
   }
-</style>-->
+</style>
