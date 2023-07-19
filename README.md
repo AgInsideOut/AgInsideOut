@@ -14,31 +14,36 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- CSS styles for light and dark mode -->
-  <style>
-    .icon {
-      width: 40px;
-      height: 40px;
-    }
 
-    @media (prefers-color-scheme: dark) {
-      .icon {
-        content: url('icon_w.png');
-      }
-    }
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="csharp.png">
+    <img width="40" height="40" alt="csharp" src="csharp.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="python_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="python.png">
+    <img width="40" height="40" alt="python" src="python.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="grasshopper.png">
+    <img width="40" height="40" alt="grasshopper" src="grasshopper.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ai.png">
+    <img width="40" height="40" alt="adobe-ai" src="adobe-ai.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ps.png">
+    <img width="40" height="40" alt="adobe-ps" src="adobe-ps.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.png">
+    <img width="40" height="40" alt="adobe-id" src="adobe-id.png">
+  </picture>
 
-    @media (prefers-color-scheme: light) {
-      .icon {
-        content: url('icon.png');
-      }
-    }
-  </style>
-
-  <!-- Icons -->
-  <img class="icon" alt="csharp">
-  <img class="icon" alt="python">
-  <img class="icon" alt="grasshopper">
-  <img class="icon" alt="adobe-ai">
-  <img class="icon" alt="adobe-ps">
-  <img class="icon" alt="adobe-id">
 </p>
