@@ -3,6 +3,7 @@
 <br>
 
 <h3 align="left">About me:</h3>
+
 - 🔭 I’m into boosting knowledge and skills.
 - 🌱 I’m currently learning **JavaScript**.
 - 📄 Check out my [experience](https://www.agthiel.de).
@@ -11,20 +12,12 @@
 
 <hr style="border:2px solid gray">
 
-<style>
-  .icon-inverted {
-    filter: invert(1) contrast(2); /* You can adjust the contrast value as needed */
-  }
-</style>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/csharp.svg" alt="csharp" width="40" height="40" class="icon-inverted" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/python.svg" alt="python" width="40" height="40" class="icon-inverted" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/grasshopper.svg" alt="grasshopper" width="40" height="40" class="icon-inverted" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ai.svg" alt="adobe-ai" width="40" height="40" class="icon-inverted" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ps.svg" alt="adobe-ps" width="40" height="40" class="icon-inverted" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-id.svg" alt="adobe-id" width="40" height="40" class="icon-inverted" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/csharp.svg" alt="csharp" width="40" height="40" class="icon" style="filter: invert(1)" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/python.svg" alt="python" width="40" height="40" class="icon" style="filter: invert(1)" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/grasshopper.svg" alt="grasshopper" width="40" height="40" class="icon" style="filter: invert(1)" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ai.svg" alt="adobe-ai" width="40" height="40" class="icon" style="filter: invert(1)" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ps.svg" alt="adobe-ps" width="40" height="40" class="icon" style="filter: invert(1)" />
+  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-id.svg" alt="adobe-id" width="40" height="40" class="icon" style="filter: invert(1)" />
 </p>
-
-
