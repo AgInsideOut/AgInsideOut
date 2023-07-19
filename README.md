@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<div>
+
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.svg">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="csharp.svg">
@@ -45,5 +45,5 @@
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.svg">
     <img width="40" height="40" alt="adobe-id" src="adobe-id.svg">
   </picture>
-</div>
+
 </p>
