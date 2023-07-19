@@ -16,32 +16,32 @@
 <p align="left">
 
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="csharp.svg">
     <img width="40" height="40" alt="csharp" src="csharp.svg">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="python_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="python_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="python.svg">
     <img width="40" height="40" alt="python" src="python.svg">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="grasshopper.svg">
     <img width="40" height="40" alt="grasshopper" src="grasshopper.svg">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ai.svg">
     <img width="40" height="40" alt="adobe-ai" src="adobe-ai.svg">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ps.svg">
     <img width="40" height="40" alt="adobe-ps" src="adobe-ps.svg">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.svg">
     <img width="40" height="40" alt="adobe-id" src="adobe-id.svg">
   </picture>
