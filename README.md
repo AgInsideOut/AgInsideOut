@@ -14,20 +14,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- List of icon names -->
-  <script>
-    const iconNames = [
-      'csharp', 'python', 'grasshopper', 'adobe-ai', 'adobe-ps', 'adobe-id'
-    ];
-
-    for (const iconName of iconNames) {
-      document.write(`
-        <picture>
-          <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="${iconName}_w.png">
-          <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="${iconName}.png">
-          <img width="40" height="40" alt="${iconName}" src="${iconName}.png">
-        </picture>
-      `);
+  <!-- CSS styles for light and dark mode -->
+  <style>
+    .icon {
+      width: 40px;
+      height: 40px;
     }
-  </script>
+
+    @media (prefers-color-scheme: dark) {
+      .icon {
+        content: url('icon_w.png');
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .icon {
+        content: url('icon.png');
+      }
+    }
+  </style>
+
+  <!-- Icons -->
+  <img class="icon" alt="csharp">
+  <img class="icon" alt="python">
+  <img class="icon" alt="grasshopper">
+  <img class="icon" alt="adobe-ai">
+  <img class="icon" alt="adobe-ps">
+  <img class="icon" alt="adobe-id">
 </p>
