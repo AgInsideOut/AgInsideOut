@@ -3,7 +3,6 @@
 <br>
 
 <h3 align="left">About me:</h3>
-
 - 🔭 I’m into boosting knowledge and skills.
 - 🌱 I’m currently learning **JavaScript**.
 - 📄 Check out my [experience](https://www.agthiel.de).
@@ -30,25 +29,25 @@
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.svg">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="grasshopper.svg">
-    <img width="40" height="40" alt="python" src="python.svg">
+    <img width="40" height="40" alt="grasshopper" src="grasshopper.svg">
   </picture>
 
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.svg">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="padobe-ai.svg">
-    <img width="40" height="40" alt="python" src="python.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ai.svg">
+    <img width="40" height="40" alt="adobe-ai" src="adobe-ai.svg">
   </picture>
 
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.svg">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ps.svg">
-    <img width="40" height="40" alt="python" src="python.svg">
+    <img width="40" height="40" alt="adobe-ps" src="adobe-ps.svg">
   </picture>
 
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.svg">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.svg">
-    <img width="40" height="40" alt="python" src="python.svg">
+    <img width="40" height="40" alt="adobe-id" src="adobe-id.svg">
   </picture>
-  
+
 </p>
