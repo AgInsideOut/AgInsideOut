@@ -16,34 +16,34 @@
 <p align="left">
 
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="csharp.png">
-    <img width="40" height="40" alt="csharp" src="csharp.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/csharp_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/csharp.png">
+    <img width="40" height="40" alt="csharp" src="icons/csharp.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="python_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="python.png">
-    <img width="40" height="40" alt="python" src="python.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/python_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/python.png">
+    <img width="40" height="40" alt="python" src="icons/python.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="grasshopper.png">
-    <img width="40" height="40" alt="grasshopper" src="grasshopper.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/grasshopper_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/grasshopper.png">
+    <img width="40" height="40" alt="grasshopper" src="icons/grasshopper.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ai.png">
-    <img width="40" height="40" alt="adobe-ai" src="adobe-ai.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/adobe-ai_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/adobe-ai.png">
+    <img width="40" height="40" alt="adobe-ai" src="icons/adobe-ai.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ps.png">
-    <img width="40" height="40" alt="adobe-ps" src="adobe-ps.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/adobe-ps_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/adobe-ps.png">
+    <img width="40" height="40" alt="adobe-ps" src="icons/adobe-ps.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.png">
-    <img width="40" height="40" alt="adobe-id" src="adobe-id.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/adobe-id_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/adobe-id.png">
+    <img width="40" height="40" alt="adobe-id" src="icons/adobe-id.png">
   </picture>
 
 </p>
