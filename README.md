@@ -14,36 +14,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- List of icon names -->
+  <script>
+    const iconNames = [
+      'csharp', 'python', 'grasshopper', 'adobe-ai', 'adobe-ps', 'adobe-id'
+    ];
 
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="csharp.png">
-    <img width="40" height="40" alt="csharp" src="csharp.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="python_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="python.png">
-    <img width="40" height="40" alt="python" src="python.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="grasshopper.png">
-    <img width="40" height="40" alt="grasshopper" src="grasshopper.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ai.png">
-    <img width="40" height="40" alt="adobe-ai" src="adobe-ai.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ps.png">
-    <img width="40" height="40" alt="adobe-ps" src="adobe-ps.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.png">
-    <img width="40" height="40" alt="adobe-id" src="adobe-id.png">
-  </picture>
-
+    for (const iconName of iconNames) {
+      document.write(`
+        <picture>
+          <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="${iconName}_w.png">
+          <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="${iconName}.png">
+          <img width="40" height="40" alt="${iconName}" src="${iconName}.png">
+        </picture>
+      `);
+    }
+  </script>
 </p>
