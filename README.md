@@ -14,10 +14,41 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/csharp.svg" alt="csharp" width="40" height="40" class="icon" style="filter: invert(1)" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/python.svg" alt="python" width="40" height="40" class="icon" style="filter: invert(1)" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/grasshopper.svg" alt="grasshopper" width="40" height="40" class="icon" style="filter: invert(1)" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ai.svg" alt="adobe-ai" width="40" height="40" class="icon" style="filter: invert(1)" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-ps.svg" alt="adobe-ps" width="40" height="40" class="icon" style="filter: invert(1)" />
-  <img src="https://raw.githubusercontent.com/AgInsideOut/AgInsideOut/main/adobe-id.svg" alt="adobe-id" width="40" height="40" class="icon" style="filter: invert(1)" />
+
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="csharp_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="csharp.svg">
+    <img width="40" height="40" alt="csharp" src="csharp.svg">
+  </picture>
+
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="python_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="python.svg">
+    <img width="40" height="40" alt="python" src="python.svg">
+  </picture>
+
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="grasshopper_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="grasshopper.svg">
+    <img width="40" height="40" alt="python" src="python.svg">
+  </picture>
+
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ai_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="padobe-ai.svg">
+    <img width="40" height="40" alt="python" src="python.svg">
+  </picture>
+
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-ps_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-ps.svg">
+    <img width="40" height="40" alt="python" src="python.svg">
+  </picture>
+
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="adobe-id_w.svg">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="adobe-id.svg">
+    <img width="40" height="40" alt="python" src="python.svg">
+  </picture>
+  
 </p>
