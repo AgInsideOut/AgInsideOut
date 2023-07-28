@@ -6,7 +6,7 @@
 
 - 🔭 I’m into boosting knowledge and skills.
 - 🌱 I’m currently learning **JavaScript**.
-- 📄 Check out my [experience](https://www.agthiel.de).
+- 📄 Check out my [experience](https://www.linkedin.com/in/agnieszka-thiel/).
 - 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
 - ⚡ Fun fact – <ins>*people are more creative in the shower*</ins>.
 
