@@ -25,7 +25,6 @@
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/python.png">
     <img width="40" height="40" alt="python" src="icons/python.png">
   </picture>
-  
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/html_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/html.png">
@@ -51,6 +50,7 @@
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/react.png">
     <img width="40" height="40" alt="react" src="icons/react.png">
   </picture>
+  <br /><br />
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/git_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/git.png">
@@ -60,6 +60,16 @@
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/postman_w">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/postman.png">
     <img width="40" height="40" alt="postman" src="icons/postman.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/jira_w">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/jira.png">
+    <img width="40" height="40" alt="jira" src="icons/jira.png">
+  </picture>
+    <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/figma_w">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/figma.png">
+    <img width="40" height="40" alt="figma" src="icons/figma.png">
   </picture>
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/mysql">
