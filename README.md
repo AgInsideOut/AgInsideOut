@@ -57,22 +57,22 @@
     <img width="40" height="40" alt="git" src="icons/git.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/postman_w">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/postman_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/postman.png">
     <img width="40" height="40" alt="postman" src="icons/postman.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/jira_w">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/jira_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/jira.png">
     <img width="40" height="40" alt="jira" src="icons/jira.png">
   </picture>
     <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/figma_w">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/figma_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/figma.png">
     <img width="40" height="40" alt="figma" src="icons/figma.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/mysql">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/mysql.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/mysql.png">
     <img width="40" height="40" alt="mysql" src="icons/mysql.png">
   </picture>
