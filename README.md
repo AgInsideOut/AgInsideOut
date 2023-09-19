@@ -25,6 +25,47 @@
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/python.png">
     <img width="40" height="40" alt="python" src="icons/python.png">
   </picture>
+  
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/html_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/html.png">
+    <img width="40" height="40" alt="html" src="icons/html.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/css_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/css.png">
+    <img width="40" height="40" alt="css" src="icons/css.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/js_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/js.png">
+    <img width="40" height="40" alt="js" src="icons/js.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/nodejs_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/nodejs.png">
+    <img width="40" height="40" alt="nodejs" src="icons/nodejs.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/react_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/react.png">
+    <img width="40" height="40" alt="react" src="icons/react.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/git_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/git.png">
+    <img width="40" height="40" alt="git" src="icons/git.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/postman_w">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/postman.png">
+    <img width="40" height="40" alt="postman" src="icons/postman.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/mysql">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/mysql.png">
+    <img width="40" height="40" alt="mysql" src="icons/mysql.png">
+  </picture>
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/grasshopper_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/grasshopper.png">
