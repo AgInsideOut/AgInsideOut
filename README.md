@@ -72,7 +72,7 @@
     <img width="40" height="40" alt="figma" src="icons/figma.png">
   </picture>
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/mysql.png">
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/mysql_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/mysql.png">
     <img width="40" height="40" alt="mysql" src="icons/mysql.png">
   </picture>
