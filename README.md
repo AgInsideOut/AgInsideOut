@@ -1,5 +1,5 @@
 <h1 align="center">👋🏻 Hi, I'm Aga!</h1>
-<p align="center">Architect / Graphic designer / <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate</p>
+<p align="center">Architect / Graphic designer / <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate / <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student </p>
 <br>
 
 <h3 align="left">About me:</h3>
