@@ -1,14 +1,15 @@
-<h1 align="center">👋🏻 Hi, I'm Aga!</h1>
-<p align="center">Architect / Graphic designer / <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate / <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student </p>
+<h1 align="center">🌟 Hi there, I'm Aga!</h1>
+<p align="center">Architect 🏗️ | Graphic Designer 🎨 | IT Enthusiast 💻<br>
+<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate | <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student 🎓</p>
 <br>
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m into boosting knowledge and skills.
-- 🌱 I’m currently learning **JavaScript**.
-- 📄 Check out my [experience](https://github.com/AgInsideOut?tab=repositories).
-- 💬 Reach me via [email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach).
-- ⚡ Fun fact – <ins>*people are more creative in the shower*</ins>.
+- 🔍 Passionate about exploring the world of technology in my free time.
+- 🌱 Currently diving into the realm of **Data Science** and AI.
+- 🚀 Check out my [creative projects](https://github.com/AgInsideOut?tab=repositories).
+- 💬 Let's connect: [Email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach) | [LinkedIn](https://www.linkedin.com/in/agathathiel/).
+- ⚡ Fun fact: <ins>*People are more creative in the shower*</ins>.
 
 <hr style="border:2px solid gray">
 
