@@ -8,7 +8,7 @@
 - 🔍 Passionate about exploring the world of technology in my free time.
 - 🌱 Currently diving into the realm of **Data Science** and AI.
 - 🚀 Check out my [creative projects](https://github.com/AgInsideOut?tab=repositories).
-- 💬 Let's connect: [Email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach) | [LinkedIn](https://www.linkedin.com/in/agathathiel/).
+- 💬 Let's connect: [Email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach) | [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).
 - ⚡ Fun fact: <ins>*People are more creative in the shower*</ins>.
 
 <hr style="border:2px solid gray">
