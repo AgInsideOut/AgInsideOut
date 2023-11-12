@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aga!</h1>
 <p align="center">Architect ┆ Graphic Designer ┆ IT Enthusiast<br>
-<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate ┆ <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student 🎓</p>
+<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate ┆ <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student</p>
 <br>
 
 <h3 align="left">About me:</h3>
