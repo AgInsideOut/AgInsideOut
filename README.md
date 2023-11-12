@@ -5,11 +5,11 @@
 
 <h3 align="left">About me:</h3>
 
-&nbsp; ▶ Passionate about exploring the world of technology in my free time.\
-&nbsp; ▶ Currently diving into the realm of **Data Science** and AI.\
-&nbsp; ▶ Check out my [creative projects](https://github.com/AgInsideOut?tab=repositories).\
-&nbsp; ▶ Let's connect: [Email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach) | [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).\
-&nbsp; ▶ Fun fact: <ins>*People are more creative in the shower*</ins>.
+&nbsp; ▶ &nbsp; Passionate about exploring the world of technology in my free time.\
+&nbsp; ▶ &nbsp; Currently diving into the realm of **Data Science** and AI.\
+&nbsp; ▶ &nbsp; Check out my [creative projects](https://github.com/AgInsideOut?tab=repositories).\
+&nbsp; ▶ &nbsp; Let's connect: [Email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach) | [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).\
+&nbsp; ▶ &nbsp; Fun fact: <ins>*People are more creative in the shower*</ins>.
 
 <hr style="border:2px solid gray">
 
