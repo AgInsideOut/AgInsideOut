@@ -17,14 +17,14 @@
 <p align="left">
 
   <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/csharp_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/csharp.png">
-    <img width="40" height="40" alt="csharp" src="icons/csharp.png">
-  </picture>
-  <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/python_w.png">
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/python.png">
     <img width="40" height="40" alt="python" src="icons/python.png">
+  </picture>
+  <picture>
+    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/csharp_w.png">
+    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/csharp.png">
+    <img width="40" height="40" alt="csharp" src="icons/csharp.png">
   </picture>
   <picture>
     <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/html_w.png">
