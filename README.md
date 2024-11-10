@@ -9,7 +9,7 @@
 &nbsp; ▶ &nbsp; Learning Data Science & AI in a structured way.\
 &nbsp; ▶ &nbsp; Check out my [repositories](https://github.com/AgInsideOut?tab=repositories).\
 &nbsp; ▶ &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).\
-&nbsp; ▶ &nbsp; Favorite quote: *"Perhaps imagination is only intelligence having fun."*
+&nbsp; ▶ &nbsp; Quote: *"Data is the new oil."* - Clive Humby
 
 <hr style="border:1px solid gray">
 
