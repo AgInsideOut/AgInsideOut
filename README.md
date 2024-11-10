@@ -82,20 +82,5 @@
     <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/grasshopper.png">
     <img width="40" height="40" alt="grasshopper" src="icons/grasshopper.png">
   </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/adobe-ai_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/adobe-ai.png">
-    <img width="40" height="40" alt="adobe-ai" src="icons/adobe-ai.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/adobe-ps_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/adobe-ps.png">
-    <img width="40" height="40" alt="adobe-ps" src="icons/adobe-ps.png">
-  </picture>
-  <picture>
-    <source width="40" height="40" media="(prefers-color-scheme: dark)" srcset="icons/adobe-id_w.png">
-    <source width="40" height="40" media="(prefers-color-scheme: light)" srcset="icons/adobe-id.png">
-    <img width="40" height="40" alt="adobe-id" src="icons/adobe-id.png">
-  </picture>
 
 </p>
