@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Aga</h1>
 <p align="center">Architect | IT Enthusiast<br>
 <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate | <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student</p>
 <br>
