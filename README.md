@@ -1,17 +1,17 @@
-<h1 align="center">Hi there, I'm Aga!</h1>
-<p align="center">Architect ┆ Graphic Designer ┆ IT Enthusiast<br>
-<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate ┆ <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student</p>
+<h1 align="center">Hello, I'm Aga</h1>
+<p align="center">Architect | IT Enthusiast<br>
+<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate | <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student</p>
 <br>
 
 <h3 align="left">About me:</h3>
 
-&nbsp; ▶ &nbsp; Passionate about exploring the world of technology in my free time.\
-&nbsp; ▶ &nbsp; Currently diving into the realm of **Data Science** and AI.\
-&nbsp; ▶ &nbsp; Check out my [creative projects](https://github.com/AgInsideOut?tab=repositories).\
-&nbsp; ▶ &nbsp; Let's connect: [Email](mailto:ag.thiel.arc@gmail.com?subject=[GitHub]%20Outreach) | [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).\
-&nbsp; ▶ &nbsp; Fun fact: <ins>*People are more creative in the shower*</ins>.
+&nbsp; ▶ &nbsp; Passionate about technology and its potential.
+&nbsp; ▶ &nbsp; Exploring Data Science and AI.
+&nbsp; ▶ &nbsp; Check out my [repositories](https://github.com/AgInsideOut?tab=repositories).
+&nbsp; ▶ &nbsp; Connect with me: [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).
+&nbsp; ▶ &nbsp; I like this quote: *"Perhaps imagination is only intelligence having fun."*
 
-<hr style="border:2px solid gray">
+<hr style="border:1px solid gray">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
