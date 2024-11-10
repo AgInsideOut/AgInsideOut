@@ -5,10 +5,10 @@
 
 <h3 align="left">About me:</h3>
 
-&nbsp; ▶ &nbsp; Passionate about technology and its potential.
-&nbsp; ▶ &nbsp; Exploring Data Science and AI.
-&nbsp; ▶ &nbsp; Check out my [repositories](https://github.com/AgInsideOut?tab=repositories).
-&nbsp; ▶ &nbsp; Connect with me: [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).
+&nbsp; ▶ &nbsp; Passionate about technology and its potential.\
+&nbsp; ▶ &nbsp; Exploring Data Science and AI.\
+&nbsp; ▶ &nbsp; Check out my [repositories](https://github.com/AgInsideOut?tab=repositories).\
+&nbsp; ▶ &nbsp; Connect with me: [LinkedIn](https://www.linkedin.com/in/agnieszka-thiel/).\
 &nbsp; ▶ &nbsp; I like this quote: *"Perhaps imagination is only intelligence having fun."*
 
 <hr style="border:1px solid gray">
