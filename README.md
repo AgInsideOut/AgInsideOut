@@ -1,5 +1,5 @@
 <p align="center">Architect | IT Enthusiast<br>
-<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate | <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Student</p>
+<a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate | <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Graduate</p>
 <br>
 
 <h3 align="left">About me:</h3>
