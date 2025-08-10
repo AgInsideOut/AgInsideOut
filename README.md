@@ -1,4 +1,4 @@
-<p align="center">Architect | IT Enthusiast<br>
+<p align="center">Architect | Computational Designer<br>
 <a href="https://github.com/CFGer">CFGdegree</a> Full-Stack Graduate | <a href="https://www.turingcollege.com/">Turing College</a> Data Science & AI Graduate</p>
 <br>
 
